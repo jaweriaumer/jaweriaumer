@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jaweria Umer
 
-### 💻 Computer Science Student | Aspiring Software Developer
+### 💻 Computer Science Student | Aspiring cyber security analyst
 
-Welcome to my GitHub! I'm a Computer Science student passionate about programming, software development, problem-solving, and building practical projects.
+Welcome to my GitHub! I'm a Computer Science student passionate about programming, security analyst, problem-solving, and building practical projects with real life problem solving.
 
 I use GitHub to document my learning journey, academic projects, experiments, and progress as I grow as a developer. 🚀
 
@@ -12,9 +12,9 @@ I use GitHub to document my learning journey, academic projects, experiments, an
 
 🎓 Computer Science Student — 2nd Year, 3rd Semester
 
-💻 Interested in **C++, Web Development, Software Engineering, and Data Structures**
+💻 Interested in **C++, Web Development, development, and Data Structures**
 
-🧠 Currently strengthening my **problem-solving and programming fundamentals**
+🧠 Currently strengthening my **problem-solving and programming fundamentals(c,cpp)**
 
 🚀 Building projects to turn concepts into practical applications
 
@@ -24,7 +24,7 @@ I use GitHub to document my learning journey, academic projects, experiments, an
 
 
 
-### 🧠 Computer Science
+### 🧠  As a Computer Science Student What I Learn:
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -61,7 +61,7 @@ An interactive web-based quiz application designed to help students test and imp
 
 ## 🚗 Car Marketplace System
 
-An object-oriented C++ project inspired by online vehicle marketplace platforms.
+An object-oriented C++  GUI project inspired by online vehicle marketplace platforms.
 
 ### ✨ Concepts Implemented
 
@@ -79,13 +79,13 @@ An object-oriented C++ project inspired by online vehicle marketplace platforms.
 * CRUD Operations
 * Vehicle Searching & Listings
 
-**Technologies:** C++
+**Technologies:** C++ with different libraries(QT)
 
 ---
 
 ## 🎮 Hunter Assassin
 
-A 2D stealth-based game project inspired by the Hunter Assassin concept.
+A 2D gui stealth-based game project inspired by the Hunter Assassin concept.
 
 ### ✨ Planned / Implemented Features
 
@@ -101,52 +101,7 @@ A 2D stealth-based game project inspired by the Hunter Assassin concept.
 
 **Technologies:** C • raylib
 
----
-
-## 📚 Data Structures & Algorithms
-
-A collection of implementations and practice problems covering fundamental DSA concepts.
-
-### Topics
-
-* Arrays
-* Pointers
-* Singly Linked Lists
-* Doubly Linked Lists
-* Stacks
-* Queues
-* Recursion
-* Searching
-* Sorting
-* Dynamic Memory
-* Backtracking
-
-**Language:** C++
-
----
-
-## ⚙️ Assembly & COAL Practice
-
-A collection of Assembly Language programs and exercises developed while learning Computer Organization and Assembly Language.
-
-### Topics
-
-* MASM
-* Irvine32 Library
-* Registers
-* Memory Addressing
-* MOV / MOVZX / MOVSX
-* XCHG
-* Arithmetic Operations
-* Arrays
-* Pointers
-* Constants
-* Flags
-* 8086 Logical & Physical Addresses
-
-**Technologies:** MASM • Irvine32 • Visual Studio
-
----
+----
 
 # 🏆 Achievements & Activities
 
@@ -167,7 +122,7 @@ A collection of Assembly Language programs and exercises developed while learnin
 
 💻 **Advanced C++**
 
-🧩 **Object-Oriented Programming**
+🧩 ** Solving real life problems**
 
 🌐 **Web Development**
 
@@ -176,6 +131,8 @@ A collection of Assembly Language programs and exercises developed while learnin
 🎮 **Game Development with raylib**
 
 ⚙️ **Assembly Language**
+
+✌**app development with FLUTTER**
 
 ---
 
@@ -189,25 +146,6 @@ A collection of Assembly Language programs and exercises developed while learnin
 * [ ] Build and deploy web applications
 * [ ] Create more polished portfolio projects
 * [ ] Gain practical industry experience
-
----
-# 📈 My Development Journey
-
-```text
-Programming Fundamentals
-        ↓
-      C / C++
-        ↓
-Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Web Development
-        ↓
-Projects & Problem Solving
-        ↓
-Open Source & Professional Development
-```
 
 ---
 
